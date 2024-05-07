@@ -6,7 +6,8 @@ remote: Compressing objects: 100% (6/6), done.
 remote: Total 6 (delta 0), reused 3 (delta 0), pack-reused 0
 Receiving objects: 100% (6/6), 91.51 KiB | 22.88 MiB/s, done.
 
-Novo: 
+
+Novo:
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
         comando da tarde.txt
@@ -22,3 +23,22 @@ Your branch is up to date with 'origin/main'.
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         new file:   comando da tarde.txt
+
+Novo2:
+C:\Users\24153572\Documents\Aula Tarde\Versionamento->git commit -m "Arquivo de comando da tarde.txt"
+[main 0a0b44e] Arquivo de comando da tarde.txt
+ Committer: YVE DE SOUZA ARAUJO <24153572@edu119.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 24 insertions(+)
+ create mode 100644 comando da tarde.txt
