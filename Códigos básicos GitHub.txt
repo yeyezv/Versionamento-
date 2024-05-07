@@ -1,0 +1,14 @@
+Códigos GitHub -----------------------------------------------------------------------------------------------------
+
+Fork - copiar 
+git clone https://github.com/yeyezv/Versionamento- - clona o repositório público de quem você quiser
+dir - mostra o que está escrito
+cd nome da pasta - abre a pasta
+tab - termina de escrever
+dir /a - mostra os arquivos ocultos
+git status - mostra como está a posição da sua pasta
+arquivo em vermelho - significa que o arquivo que está lá, não está na nuvem
+git add . - torna o arquivo disponível para ir na nuvem
+git commit -m "Adicionando um PDF com comandos do meu repositório" - deixa o arquivo pronto para subir para nuvem 
+doskey /h - mostra os comandos que eu dei
+
