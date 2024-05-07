@@ -1,0 +1,24 @@
+C:\Users\24153572\Documents\Aula Tarde>git clone https://github.com/yeyezv/Versionamento-
+Cloning into 'Versionamento-'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 6 (delta 0), reused 3 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), 91.51 KiB | 22.88 MiB/s, done.
+
+Novo: 
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        comando da tarde.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\24153572\Documents\Aula Tarde\Versionamento->git add .
+
+C:\Users\24153572\Documents\Aula Tarde\Versionamento->git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   comando da tarde.txt
